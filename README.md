@@ -6,3 +6,24 @@ Building a restaurant recommendation system using NLP and filtering techniques. 
 
  Top cities by average rating.\
  ![](Screenshots/avgrating.png)
+
+CorrelationHeatmap.\
+![](Screenshots/heatmap.png)
+
+Top 10 cities with most restaurants.\
+![](Screenshots/mostrest.png)
+
+Pie chart for online vs offline delivery.\
+![](Screenshots/onldeliv.png)
+
+Top 10 popular cuisines.\
+![](Screenshots/popcuisines.png)
+
+Price range distribution.\
+![](Screenshots/pricerange.png)
+
+Rating of restaurants.\
+![](Screenshots/ratings.png)
+
+Top 10 restaurants.\
+![](Screenshots/top10rest.png)
