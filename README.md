@@ -25,5 +25,21 @@ Price range distribution.\
 Rating of restaurants.\
 ![](Screenshots/ratings.png)
 
-Top 10 restaurants.\
+Top 10 cuisines.\
 ![](Screenshots/top10rest.png)
+
+Select restaurants based on city.\
+![](Screenshots/selrest.png)
+
+Select restaurants based on top voting.\
+![](Screenshots/topvote1.png)
+![](Screenshots/topvote2.png)
+
+Finding the word indexes and tf-idf values.\
+![](Screenshots/tfidf.png)
+
+tf-idf Matrix.\
+![](Screenshots/tfidfmatrix.png)
+
+Top 50 restaurants based on rating.\
+![](Screenshots/top50.png)
